@@ -41,15 +41,11 @@ const Bt = styled(Button)`
     height:50px;
     border-color:#fff4ef ;
     margin-top: 30px;
-    transition: ease-in-out;
-
+   
     &:hover{
         background-color: #fa784b;
-        border-color:#fa784b ;
-        
-    }
-
-    
+        border-color:#fa784b ; 
+    }   
 `;
 
 const Banner = () => {
